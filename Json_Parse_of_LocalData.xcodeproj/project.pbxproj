@@ -12,6 +12,7 @@
 		04CF06301F14EBF700506F10 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CF062E1F14EBF700506F10 /* Main.storyboard */; };
 		04CF06321F14EBF700506F10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04CF06311F14EBF700506F10 /* Assets.xcassets */; };
 		04CF06351F14EBF700506F10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CF06331F14EBF700506F10 /* LaunchScreen.storyboard */; };
+		04CF063D1F14EC6C00506F10 /* usersAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04CF063C1F14EC6C00506F10 /* usersAPI.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		04CF06311F14EBF700506F10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04CF06341F14EBF700506F10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04CF06361F14EBF700506F10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04CF063C1F14EC6C00506F10 /* usersAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = usersAPI.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		04CF06291F14EBF700506F10 /* Json_Parse_of_LocalData */ = {
 			isa = PBXGroup;
 			children = (
+				04CF063C1F14EC6C00506F10 /* usersAPI.txt */,
 				04CF062A1F14EBF700506F10 /* AppDelegate.swift */,
 				04CF062C1F14EBF700506F10 /* ViewController.swift */,
 				04CF062E1F14EBF700506F10 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				04CF06351F14EBF700506F10 /* LaunchScreen.storyboard in Resources */,
 				04CF06321F14EBF700506F10 /* Assets.xcassets in Resources */,
+				04CF063D1F14EC6C00506F10 /* usersAPI.txt in Resources */,
 				04CF06301F14EBF700506F10 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
